@@ -66,3 +66,5 @@ buck-out/
 # API Secret
 secret.js
 todo.md
+
+*.config.js
